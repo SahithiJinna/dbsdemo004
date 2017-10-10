@@ -1,3 +1,3 @@
 <?php
 
-eco "Hello World from Version2";
+echo "Hello World from Version2";
